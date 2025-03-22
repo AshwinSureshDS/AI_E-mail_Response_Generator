@@ -1,0 +1,11 @@
+Model names with codes
+
+
+1. Amazon Bedrock Titan model_id = "amazon.titan-text-express-v1"
+2. Gemini 2.0 Flash Thinking Experimental 01-21  model_id = "google/gemini-2.0-flash-thinking-exp-1219:free"
+3. Mistral Small 3.1 24B  model_id = "mistralai/mistral-small-3.1-24b-instruct:free"
+4. Microsoft Phi-3 Medium 128K Instruct  model_id = "microsoft/phi-3-medium-128k-instruct:free"
+5. DeepSeek V3  model_id = "deepseek/deepseek-chat:free"
+6. Moonlight 16B A3B Instruct model_id = "moonshotai/moonlight-16b-a3b-instruct:free"
+
+
